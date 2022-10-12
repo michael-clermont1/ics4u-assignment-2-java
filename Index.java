@@ -1,10 +1,10 @@
 /*
  *
- * The program finds the maxium run of a string
+ * The program finds the maximum run of a string
  *
  * @author:  Michael Clermontl
  * @version: 1.0
- * @since:   2022-9-26
+ * @since:   2022-10-11
 */
 
 import java.util.Scanner;
